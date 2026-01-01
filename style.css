@@ -54,7 +54,7 @@ body {
         border-radius: 50%;
         box-shadow: 3px 3px 10px rgb(239, 237, 241);
         transition: all 0.3s;
-        display: blacl;
+        display: block;
         margin: 20px auto;
     }
 
